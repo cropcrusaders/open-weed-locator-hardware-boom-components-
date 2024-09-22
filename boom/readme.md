@@ -1,5 +1,9 @@
 ![main boom componet v5](https://github.com/user-attachments/assets/27806c68-8fcc-47d4-b6f9-dd4b452c0ff0)
 
+## link for drawings
+
+https://a360.co/4eyDjfW
+
 This 1m Modular Boom Component is an integral part of the Open Weed Locator system. It is designed to be used as a modular section that can be bolted together with other sections to create a custom-length boom arm. The component holds sensors, cameras, or other equipment for precision weed detection and monitoring in agricultural fields.
 Features
 

@@ -1,8 +1,11 @@
 # Pcb Components 
+![2](https://github.com/user-attachments/assets/61545730-1275-4ae3-b083-7472590da558)
+
 
 instrusctions to create pcb
 
 # Ordering the PCB from JLCPCB
+
 
 ## To manufacture this PCB, you can order directly from JLCPCB. Follow the steps below:
 
